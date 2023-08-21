@@ -1,0 +1,8 @@
+F:\Phase 3\Day 7\Assessment - 7\LibraryBooks\LibraryBooks\bin\Debug\LibraryBooks.exe.config
+F:\Phase 3\Day 7\Assessment - 7\LibraryBooks\LibraryBooks\bin\Debug\LibraryBooks.exe
+F:\Phase 3\Day 7\Assessment - 7\LibraryBooks\LibraryBooks\bin\Debug\LibraryBooks.pdb
+F:\Phase 3\Day 7\Assessment - 7\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csproj.AssemblyReference.cache
+F:\Phase 3\Day 7\Assessment - 7\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csproj.SuggestedBindingRedirects.cache
+F:\Phase 3\Day 7\Assessment - 7\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csproj.CoreCompileInputs.cache
+F:\Phase 3\Day 7\Assessment - 7\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.exe
+F:\Phase 3\Day 7\Assessment - 7\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.pdb

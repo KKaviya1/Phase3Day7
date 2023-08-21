@@ -1,0 +1,8 @@
+F:\Phase 3\Day 7\DisconnectedArch\DisconnectedArch\bin\Debug\DisconnectedArch.exe.config
+F:\Phase 3\Day 7\DisconnectedArch\DisconnectedArch\bin\Debug\DisconnectedArch.exe
+F:\Phase 3\Day 7\DisconnectedArch\DisconnectedArch\bin\Debug\DisconnectedArch.pdb
+F:\Phase 3\Day 7\DisconnectedArch\DisconnectedArch\obj\Debug\DisconnectedArch.csproj.AssemblyReference.cache
+F:\Phase 3\Day 7\DisconnectedArch\DisconnectedArch\obj\Debug\DisconnectedArch.csproj.SuggestedBindingRedirects.cache
+F:\Phase 3\Day 7\DisconnectedArch\DisconnectedArch\obj\Debug\DisconnectedArch.csproj.CoreCompileInputs.cache
+F:\Phase 3\Day 7\DisconnectedArch\DisconnectedArch\obj\Debug\DisconnectedArch.exe
+F:\Phase 3\Day 7\DisconnectedArch\DisconnectedArch\obj\Debug\DisconnectedArch.pdb
